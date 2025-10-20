@@ -1,0 +1,11 @@
+Assignment: Triển khai hệ thống phân tích và xử lý dữ liệu lớn
+Case study: Stock Price Bigdata
+Mục tiêu:
+Tìm hiểu một số chủ đề về phân tích dữ liệu lớn.
+Vận dụng kỹ thuật phân tích và xử lý dữ liệu.
+Xây dựng, triển khai hệ thống dữ liệu lớn với bài toán cụ thể: Stock Price Bigdata
+Kiểm tra kết quả thực hiện trên màn hình giao diện ứng dụng.
+Submit kết quả thực hiện Project lên hệ thống (LMS Canvas, Github, jupyter notebook…)
+Chi tiết trong file đính kèm: ASM Stock Price BigData.pdfDownload ASM Stock Price BigData.pdf
+
+Deadline: before 24h ngày 23/10/2025
